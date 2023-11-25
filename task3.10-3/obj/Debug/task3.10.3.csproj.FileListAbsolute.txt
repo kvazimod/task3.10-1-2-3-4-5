@@ -1,0 +1,7 @@
+D:\task3.10\task3.10-3\bin\Debug\task3.10-3.exe.config
+D:\task3.10\task3.10-3\bin\Debug\task3.10-3.exe
+D:\task3.10\task3.10-3\bin\Debug\task3.10-3.pdb
+D:\task3.10\task3.10-3\obj\Debug\task3.10.3.csproj.AssemblyReference.cache
+D:\task3.10\task3.10-3\obj\Debug\task3.10.3.csproj.CoreCompileInputs.cache
+D:\task3.10\task3.10-3\obj\Debug\task3.10-3.exe
+D:\task3.10\task3.10-3\obj\Debug\task3.10-3.pdb
